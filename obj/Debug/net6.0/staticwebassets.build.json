@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vBeWjEWHhROlxYgHDJfAYtw7glV6FCw82x2iSRA/7Sg=",
+  "Source": "TestSPA",
+  "BasePath": "_content/TestSPA",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
